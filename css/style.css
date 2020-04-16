@@ -136,6 +136,7 @@ body {
 
 .main-text {
   font-size: 14px;
+  line-height: 24px;
   width: 415px;
   color: #595959;
   margin-bottom: 65px;
@@ -151,40 +152,80 @@ body {
 .pro_points {
   color: #000000;
   font-size: 14px;
+  line-height: 24px;
   font-weight: 700;
 }
 
 .pro_site {
   color: #595959;
   font-size: 14px;
+  line-height: 24px;
   font-weight: 700;
 }
 
 .edu {
   font-size: 22px;
   font-weight: 700;
+  line-height: 24px;
   margin-bottom: 20px;
 }
 
 .edu-universe {
   font-size: 14px;
+  line-height: 24px;
   font-weight: 700;
   color: #ff6b08;
 }
 
 .edu-sub-universe {
   font-size: 14px;
+  line-height: 24px;
   font-weight: 700;
-  color: #ff6b08;
+  color: #7c604e;
   margin-bottom: 15px;
 }
 
 .edu-text {
   margin-bottom: 15px;
+  line-height: 24px;
 }
 
 .edu-sub-text {
-  color: #595959;
-  font-size: 14px;
+  color: #a8a8a8;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.exp {
+  margin-bottom: 20px;
+
+}
+
+.exp-main {
+  margin-bottom: 20px;
+  font-size: 22px;
   font-weight: 700;
+  line-height: 24px;
+}
+
+.exp-work {
+  line-height: 24px;
+  margin-bottom: 25px;
+}
+
+.exp-work-name {
+  line-height: 24px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.exp-work-subname {
+color: #ff6b08;
+}
+
+.exp-work-duty {
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 15px;
+  width: 535px;
 }
