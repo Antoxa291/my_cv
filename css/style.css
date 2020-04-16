@@ -126,12 +126,14 @@ body {
   font-size: 14px;
   font-weight: 700;
 }
+
 .main-title {
   font-size: 45px;
-  font-weight: bold;
+  font-weight: 700;
   margin-top: 24px;
   margin-bottom: 24px;
 }
+
 .main-text {
   font-size: 14px;
   width: 415px;
@@ -140,4 +142,49 @@ body {
 }
 
 .projects {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.pro_points {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.pro_site {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.edu {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.edu-universe {
+  font-size: 14px;
+  font-weight: 700;
+  color: #ff6b08;
+}
+
+.edu-sub-universe {
+  font-size: 14px;
+  font-weight: 700;
+  color: #ff6b08;
+  margin-bottom: 15px;
+}
+
+.edu-text {
+  margin-bottom: 15px;
+}
+
+.edu-sub-text {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 700;
 }
